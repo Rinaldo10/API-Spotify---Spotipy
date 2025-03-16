@@ -1,4 +1,16 @@
-# Descrição
+# Description
+
+Former proposal for course completion work (TCC)
+
+The following project contains tools that mine data within the Spotify platform using the API provided by the platform (Spotipy). The purpose of the project was to collect masses of information (JSONS) from the platform in order to create a network of relationships between singers and their “featurings” (special appearances) with the ultimate goal of measuring the Social Capital of all the artists on the platform.
+
+Summary of the files
+
+The singers file contains the initials to be used in the API's Search() method. The 2 files named generator are prototypes for creating .json by hand. The Time file contains the execution time for mining each letter. The newtowrk_generator file can create a graph from the data collected from the API. The other execution files are prototypes for collecting and parsing data from the API which are stored in .txt and .json formats.
+
+Translated with DeepL.com (free version)
+
+//==========================================================================================================================================//
 
 Antiga proposta de Trabalho de Conclusão de curso (TCC) 
 
